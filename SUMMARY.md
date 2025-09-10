@@ -7,12 +7,17 @@
 * [Product philosophy：Ikigai](product-philosophy-ikigai.md)
 * [AgentFi for Digital Nomad：Empowering the Sovereign Individual](agentfi-for-digital-nomad-empowering-the-sovereign-individual.md)
 
-## Main Product
+## Product Summary
 
-* [Main Product](main-product/main-product/README.md)
-  * [Growth OS](main-product/main-product/growth-os.md)
-* [Product](main-product/product/README.md)
-  * [Job Board](main-product/product/job-board.md)
+* [Main Product](product-summary/main-product/README.md)
+  * [Growth OS](product-summary/main-product/growth-os.md)
+* [Product](product-summary/product/README.md)
+  * [Job Board](product-summary/product/job-board.md)
+  * [Events](product-summary/product/events.md)
+  * [Offline Communities and Commercial Facilities](product-summary/product/offline-communities-and-commercial-facilities.md)
+  * [Accommodation](product-summary/product/accommodation.md)
+  * [Visa](product-summary/product/visa.md)
+  * [Personal Dashboard](product-summary/product/personal-dashboard.md)
 
 ## $WW <a href="#ww" id="ww"></a>
 
