@@ -13,10 +13,13 @@
   * [Growth OS](product-summary/main-product/growth-os.md)
 * [Product](product-summary/product/README.md)
   * [Job Board](product-summary/product/job-board.md)
+  * [Education](product-summary/product/education.md)
+  * [Productivity tool sales](product-summary/product/productivity-tool-sales.md)
   * [Events](product-summary/product/events.md)
   * [Offline Communities and Commercial Facilities](product-summary/product/offline-communities-and-commercial-facilities.md)
   * [Accommodation](product-summary/product/accommodation.md)
   * [Visa](product-summary/product/visa.md)
+  * [Insurance](product-summary/product/insurance.md)
   * [Personal Dashboard](product-summary/product/personal-dashboard.md)
 
 ## $WW <a href="#ww" id="ww"></a>
@@ -32,3 +35,7 @@
 ## Join our communities
 
 * [Official link](join-our-communities/official-link.md)
+
+## LEGAL
+
+* [Terms of Service](legal/terms-of-service.md)
