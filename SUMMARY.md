@@ -1,3 +1,4 @@
 # Table of contents
 
-* [WorkWork](README.md)
+* [Introduction](README.md)
+* [What is WorkWork?](what-is-workwork.md)
