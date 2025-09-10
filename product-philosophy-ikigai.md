@@ -21,7 +21,7 @@ Ikigai is the intersection of four essential elements:&#x20;
 
 This powerful concept guides us in designing a platform that empowers individuals to align their passions and skills with the global needs of the digital economy.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pbs.twimg.com/media/Gvnj11VWYAAlH3P?format=jpg&#x26;name=medium" alt=""><figcaption></figcaption></figure>
 
 At the core of WorkWork's vision is the idea that true freedom in the modern work landscape comes from having the ability to choose how and where you work, while ensuring that you create meaningful value for both yourself and the broader world. We believe that by providing the tools, resources, and community support, WorkWork enables users to discover their Ikigai and, in turn, create sustainable income streams that align with their life goals.
 

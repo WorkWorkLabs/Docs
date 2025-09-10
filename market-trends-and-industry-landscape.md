@@ -12,7 +12,7 @@ The global labor force is growing rapidly, with over 8 billion people participat
 
 Based on estimates from Upwork and Nomad List, over 100 million remote workers and freelancers are now active worldwide, creating a $50 billion serviceable market. These professionals seek platforms that offer flexible working opportunities, networking, and growth support.
 
-**WorkWork** aims to acquire 1 million users within the next 3 years, tapping into a $30 million obtainable market through its modular SaaS, recruitment services, training programs, and local commerce integrations. This target highlights the substantial market opportunity for a platform that addresses the unique needs of digital nomads, remote workers, and freelancers.
+**WorkWork** aims to acquire 1 million users within the next 3 years, tapping into a $30-$100 million obtainable market through its modular SaaS, recruitment services, training programs, and local commerce integrations. This target highlights the substantial market opportunity for a platform that addresses the unique needs of digital nomads, remote workers, and freelancers.
 
 #### Key Market Trends
 
