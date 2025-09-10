@@ -16,3 +16,7 @@
 ***
 
 * [Roadmap](roadmap.md)
+
+## Group 1
+
+* [Join the Community](group-1/join-the-community.md)
