@@ -29,6 +29,6 @@
 
 * [Roadmap](roadmap.md)
 
-## Group 1
+## Join our communities
 
-* [Join the Community](group-1/join-the-community.md)
+* [Official link](join-our-communities/official-link.md)

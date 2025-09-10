@@ -2,13 +2,19 @@
 
 The $WW token is a central component of the WorkWork ecosystem, designed to incentivize meaningful engagement, promote platform growth, and provide utility in a variety of ways. The tokenomics of $WW are designed to ensure a sustainable and robust economic model that benefits users, contributors, and the broader community.
 
-Airdrop Program\
+Airdrop Program
+
+\
 Objective
 
 The goal of the $WW airdrop program is to distribute tokens precisely to the most valuable users and contributors, minimizing the risk of airdrop farming and ensuring fair allocation.
 
-Target Groups\
-Bucket Who Qualifies Example Proofs\
+Target Groups
+
+\
+Bucket Who Qualifies Example Proofs
+
+\
 Core Early Users Users who uploaded courses, posted jobs, or completed genuine transactions On-chain transaction records, order IDs, course/job IDs\
 Community Contributors People who organized events, wrote tutorials, or supported ops/governance Event links, tutorial repos, governance/forum activity hashes\
 AI Tool Adopters Users who materially used the AI assistant to optimize profiles/courses/projects AI usage logs (hashed), before/after quality scores\
@@ -26,16 +32,28 @@ Anti-Sybil & Integrity Guards: Minimum one genuine settlement is required before
 Token Utility\
 Multi-Utility Overview\
 Feature Description Mechanics\
-Governance Voting Allows users to submit proposals that govern protocol fees, buy-back/burn ratios, treasury grants, and cross-chain expansion. Submitting proposals requires ≥ 1,000,000 WW. Voting window: 7 days with quorum and timelock on execution.\
-Yield Share (Fee Revenue) Stake $WW or WW-LP to receive a share of net protocol fees (trading/matching/settlement). Fees flow to the treasury and are distributed per epoch to eligible stakers; exact split set by governance.\
-veWW (Vote-Escrowed WW) Lock $WW to mint veWW for boosted governance power and higher reward multipliers. Configurable lock terms (1–48 months). veWW boosts governance weight, fee-share, and creator-grant weighting.\
-Fee Discounts Discounts on marketplace trading fees, escrow/settlement, ads/featured listings. Tiered schedule (2% / 5% / 10% cap) based on $WW balance or veWW.\
-Buy-Back & Burn A portion of net revenues used to repurchase and burn $WW. Frequency/ratio decided by governance. Burn address and monthly reports are public.\
-Credits & Boosts Redeem $WW for AI assistant credits, ad credits, boost packs, or cross-border settlement fee offsets. Issued as on-chain vouchers; pricing/limits adjustable by governance.\
+Governance Voting Allows users to submit proposals that govern protocol fees, buy-back/burn ratios, treasury grants, and cross-chain expansion. Submitting proposals requires ≥ 1,000,000 WW. Voting window: 7 days with quorum and timelock on execution.
+
+\
+Yield Share (Fee Revenue) Stake $WW or WW-LP to receive a share of net protocol fees (trading/matching/settlement). Fees flow to the treasury and are distributed per epoch to eligible stakers; exact split set by governance.
+
+\
+veWW (Vote-Escrowed WW) Lock $WW to mint veWW for boosted governance power and higher reward multipliers. Configurable lock terms (1–48 months). veWW boosts governance weight, fee-share, and creator-grant weighting.
+
+\
+Fee Discounts Discounts on marketplace trading fees, escrow/settlement, ads/featured listings. Tiered schedule (2% / 5% / 10% cap) based on $WW balance or veWW.
+
+\
+Buy-Back & Burn A portion of net revenues used to repurchase and burn $WW. Frequency/ratio decided by governance. Burn address and monthly reports are public.
+
+\
+Credits & Boosts Redeem $WW for AI assistant credits, ad credits, boost packs, or cross-border settlement fee offsets. Issued as on-chain vouchers; pricing/limits adjustable by governance.
+
+\
 Creator Grants Grants for course creators, event organizers, and community tooling, decided by veWW voting. Streaming disbursements tied to milestones to prevent misuse.\
 Issuance & Allocation
 
-Total Supply: 1,000,000,000 WW (fixed, no inflation)
+**Total Supply: 1,000,000,000 WW (fixed, no inflation)**
 
 Token Use Cases & Stability Mechanisms
 
